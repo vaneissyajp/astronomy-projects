@@ -1,4 +1,7 @@
+#import
 from math import exp
+
+
 #pendefinisian fungsi
 def f(x):
 #fx=6*1.44/(x**2)*(x**1.44)/(3e-3**1.44)*exp(-((x/(3e-3))**1.44) disederhanakan menjadi 
